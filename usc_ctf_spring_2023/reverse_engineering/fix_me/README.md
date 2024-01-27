@@ -1,0 +1,1 @@
+This challenge uses a pseudo-random number generator (PRNG) to unscrable the flag. The PRNG was seeded with the 32-bit integer 0x17dd6e9a. However, in your fix_me binary, the seed of the PRNG is hardcoded to 0. Can you still get the flag?
